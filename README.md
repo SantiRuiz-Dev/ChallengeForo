@@ -1,4 +1,5 @@
 # ChallengeForo
+<img width="500" height="500" alt="Badge-Spring" src="https://github.com/user-attachments/assets/784baaa8-3c83-404f-9e31-efeaa9a739a1" />
 
 Asegúrate de tener los siguientes programas, archivos y versiones:
 
